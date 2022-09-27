@@ -73,7 +73,7 @@ form.addEventListener('submit', event => {
 	showInfo(text.value)
 })
 
-// Pagination
+//Pagination
 
 const next = document.querySelector('#next')
 let counter = 1
