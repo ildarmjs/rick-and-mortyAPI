@@ -68,11 +68,9 @@ async function showInfo(name) {
 	})
 }
 
-form.addEventListener('submit' && 'keydown', event => {
+form.addEventListener('submit', event => {
 	event.preventDefault()
-	if (event.keyCode === 13) {
-		showInfo(text.value)
-	}
+	showInfo(text.value)
 })
 
 // Pagination
