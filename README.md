@@ -2,4 +2,4 @@
 
 ### Приложение для просмотра персонажей из мультсериала "Рик и Морти".
 
-[Пример](https://ildarmjs.github.io/rick-and-mortyAPI/)
+[Пример реализации](https://ildarmjs.github.io/rick-and-mortyAPI/)
